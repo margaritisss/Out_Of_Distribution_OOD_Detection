@@ -25,3 +25,6 @@ To run this notebook, you will need a Python environment with Jupyter Notebook a
    source ood_env/bin/activate  # On Windows use: ood_env\Scripts\activate
    pip install requirements.txt
 3. **Download the weights of the model** from the [link](https://drive.google.com/file/d/1ksITLO8oXzHGmPJ84isre7nyH1AAwalq/view?usp=drive_link) if you don't want to train the model from scratch.
+
+## The Report 
+Please find our report in the [link](https://drive.google.com/file/d/1lqgxPBOZ1iN8fc27WwnA5lm2P2OWC6Tr/view?usp=sharing)
